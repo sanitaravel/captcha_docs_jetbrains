@@ -16,3 +16,8 @@ This page will document dashboards, key abuse indicators, and alert interpretati
 ## Backlinks
 
 - [Index](./index.md)
+
+## Change Log
+
+| Date | Change | Author |
+|------|--------|--------|

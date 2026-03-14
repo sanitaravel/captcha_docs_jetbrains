@@ -133,3 +133,9 @@ During an incident, operations enables CAPTCHA for a sensitive endpoint until at
 
 - [CAPTCHA Operations Playbook](./captcha-operations-playbook.md)
 - [Glossary Of Terms](./glossary-of-terms.md)
+
+## Change Log
+
+| Date       | Change                   | Author             |
+|------------|--------------------------|--------------------|
+| 2026-03-14 | Initial glossary created | Documentation Team |

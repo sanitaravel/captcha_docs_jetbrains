@@ -16,3 +16,8 @@ This page will explain accessibility and UX considerations for CAPTCHA, includin
 ## Backlinks
 
 - [Index](./index.md)
+
+## Change Log
+
+| Date | Change | Author |
+|------|--------|--------|

@@ -16,3 +16,8 @@ This page will define how blacklist entries are added, reviewed, expired, and es
 ## Backlinks
 
 - [Index](./index.md)
+
+## Change Log
+
+| Date | Change | Author |
+|------|--------|--------|

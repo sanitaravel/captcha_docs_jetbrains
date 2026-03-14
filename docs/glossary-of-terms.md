@@ -32,3 +32,9 @@
 - [Index](./index.md)
 - [CAPTCHA Trigger Rules](./captcha-trigger-rules.md)
 - [CAPTCHA Operations Playbook](./captcha-operations-playbook.md)
+
+## Change Log
+
+| Date       | Change                   | Author             |
+|------------|--------------------------|--------------------|
+| 2026-03-14 | Initial glossary created | Documentation Team |

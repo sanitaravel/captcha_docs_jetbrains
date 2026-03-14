@@ -96,3 +96,9 @@ Next Review Time:
 - [CAPTCHA Trigger Rules](./captcha-trigger-rules.md)
 - [Glossary](./glossary-of-terms.md)
 - [Index](./index.md)
+
+## Change Log
+
+| Date       | Change                   | Author             |
+|------------|--------------------------|--------------------|
+| 2026-03-14 | Initial glossary created | Documentation Team |
